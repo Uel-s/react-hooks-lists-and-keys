@@ -99,7 +99,7 @@ Our code still works, but now, we can create the `<li>` elements _dynamically_
 based on the `colors` array. Adding a new string to that array means that our
 list grows without us having to create a new `<li>` by hand.
 
-## The key Prop
+
 
 If you run our updated demo code in the browser and open up the console, you'll
 see a big warning message, like this:
